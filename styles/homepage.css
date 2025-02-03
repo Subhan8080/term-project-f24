@@ -20,7 +20,7 @@ nav ul {
 nav ul li {
     display: inline;
     margin: 0 15px;
-    color: white;
+    color: #ffffff; /* Replaced 'white' with hex value */
     font-size: 18px;
 }
 
@@ -44,7 +44,7 @@ nav ul li {
     margin-top: 20px;
     padding: 10px 20px;
     background-color: #007bff;
-    color: white;
+    color: #ffffff; /* Replaced 'white' with hex value */
     border: none;
     border-radius: 5px;
     cursor: pointer;
