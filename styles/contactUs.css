@@ -8,17 +8,23 @@ body {
     margin: 0;
 }
 
+/* Contact Container */
+
 .contact-container {
-    background: white;
+    background: #ffffff;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 300px;
 }
 
+/* Heading */
+
 h2 {
     text-align: center;
 }
+
+/* Form Labels */
 
 label {
     display: block;
@@ -26,7 +32,10 @@ label {
     font-weight: bold;
 }
 
-input, textarea {
+/* Input Fields */
+
+input, 
+textarea {
     width: 100%;
     padding: 8px;
     margin-top: 5px;
@@ -34,12 +43,14 @@ input, textarea {
     border-radius: 4px;
 }
 
+/* Submit Button */
+
 button {
     width: 100%;
     padding: 10px;
     margin-top: 15px;
     background-color: #5cb85c;
-    color: white;
+    color: #ffffff;
     border: none;
     border-radius: 4px;
     cursor: pointer;
