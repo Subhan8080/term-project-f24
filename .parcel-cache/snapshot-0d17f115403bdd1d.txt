@@ -1,0 +1,28 @@
+27
+51C:\Users\Acer Vero\Desktop\term-project-f24\.github133830708590966862 1
+56C:\Users\Acer Vero\Desktop\term-project-f24\package.json133827335596650541 0
+83C:\Users\Acer Vero\Desktop\term-project-f24\Final-Term Project-DevOps-Fall2024.docx133827335596650541 0
+54C:\Users\Acer Vero\Desktop\term-project-f24\.gitignore133827343776022089 0
+60C:\Users\Acer Vero\Desktop\term-project-f24\styles\index.css133833094531249841 0
+63C:\Users\Acer Vero\Desktop\term-project-f24\styles\homepage.css133833094439242813 0
+60C:\Users\Acer Vero\Desktop\term-project-f24\.htmlhintrc.json133830708590991068 0
+61C:\Users\Acer Vero\Desktop\term-project-f24\.stylelintrc.json133830708591004878 0
+58C:\Users\Acer Vero\Desktop\term-project-f24\repo-config.sh133827335596650541 0
+77C:\Users\Acer Vero\Desktop\term-project-f24\.github\workflows\ci-staging.yaml133830708590991068 0
+47C:\Users\Acer Vero\Desktop\term-project-f24\src133833094531229633 1
+50C:\Users\Acer Vero\Desktop\term-project-f24\styles133833094531259648 1
+77C:\Users\Acer Vero\Desktop\term-project-f24\.github\workflows\cd-staging.yaml133830708590979247 0
+59C:\Users\Acer Vero\Desktop\term-project-f24\styles\blog.css133833094531240108 0
+64C:\Users\Acer Vero\Desktop\term-project-f24\styles\contactus.css133833094531240108 0
+64C:\Users\Acer Vero\Desktop\term-project-f24\styles\portfolio.css133833094531259648 0
+57C:\Users\Acer Vero\Desktop\term-project-f24\src\blog.html133833094531210024 0
+62C:\Users\Acer Vero\Desktop\term-project-f24\src\contactus.html133833094531210024 0
+61C:\Users\Acer Vero\Desktop\term-project-f24\src\homepage.html133833094439232576 0
+58C:\Users\Acer Vero\Desktop\term-project-f24\src\index.html133833094531219852 0
+61C:\Users\Acer Vero\Desktop\term-project-f24\src\services.html133833094531229633 0
+62C:\Users\Acer Vero\Desktop\term-project-f24\src\portfolio.html133833096805763080 0
+61C:\Users\Acer Vero\Desktop\term-project-f24\.github\workflows133830708590991068 1
+81C:\Users\Acer Vero\Desktop\term-project-f24\.github\workflows\cd-development.yaml133830708590979247 0
+80C:\Users\Acer Vero\Desktop\term-project-f24\.github\workflows\cd-production.yaml133830708590979247 0
+81C:\Users\Acer Vero\Desktop\term-project-f24\.github\workflows\ci-development.yaml133830708590979247 0
+80C:\Users\Acer Vero\Desktop\term-project-f24\.github\workflows\ci-production.yaml133830708590991068 0
